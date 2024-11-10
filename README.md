@@ -1,8 +1,7 @@
 ## Hi there 👋
-
-galibuganesh/galibuganesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+  
+  This is "G.GANESH.
+  Here are some details about me----
 
 - 🔭 I’m currently Fresher ...
 - 🌱 I’m currently learning ...Software testing  internship.
